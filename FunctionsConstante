@@ -4,5 +4,5 @@ function constante() {
     return 33;
 }
 
-// J'appel la fonction et j'affichage le résultat
+// J'appel la fonction et j'affiche le résultat
 console.log(`Résultat de la fonction constante : ${constante()}`);
