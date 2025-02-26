@@ -1,4 +1,4 @@
-//Wsem functions poru digi
+//Wsem functions pour digi
 // Je declare une fonction qui ne prend aucun paramètre et retourne 33
 function constante() {
     return 33;
