@@ -1,0 +1,8 @@
+//Wsem functions poru digi
+// Je declare une fonction qui ne prend aucun paramètre et retourne 33
+function constante() {
+    return 33;
+}
+
+// J'appel la fonction et j'affichage le résultat
+console.log(`Résultat de la fonction constante : ${constante()}`);
